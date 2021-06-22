@@ -1,0 +1,1 @@
+This folder contains the project files and the generated C code for flight controller
